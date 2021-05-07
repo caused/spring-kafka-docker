@@ -1,4 +1,4 @@
-# spring-kafka-docker
+# spring-kafka-webflux
 Spring reactive project with webflux and kafka integration
 
 ## Prerequisites to run the project:
